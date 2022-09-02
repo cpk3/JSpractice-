@@ -1,0 +1,2 @@
+# JSpractice-
+Practising JS logic 
